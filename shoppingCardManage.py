@@ -1,4 +1,5 @@
 # Shopping cart manager
+# using list , conditional loop only
 
 shoppinglist = []
 
@@ -71,4 +72,5 @@ elif answer==3:
     
 else:
    print("sis.....you choose wrong number!")
+
 
